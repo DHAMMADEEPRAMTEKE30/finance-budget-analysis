@@ -376,11 +376,11 @@ finance-budget-analysis/
 
 ## 👤 Author
 
-**[Your Name]**
+**Dhammadeep Anil Ramteke**
 
-- 💼 LinkedIn: [your-linkedin-url]
-- 🐙 GitHub: [your-github-url]
-- 📧 Email: [your-email]
+- 💼 LinkedIn: https://www.linkedin.com/in/dhammadeep-ramteke/
+- 🐙 GitHub: https://github.com/DHAMMADEEPRAMTEKE30
+- 📧 Email: ramtekedhamma30@gmail.com / dhammadeepramteke2702@gmail.com
 
 ---
 
